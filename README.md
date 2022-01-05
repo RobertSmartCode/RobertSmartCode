@@ -3,8 +3,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ID for IDEAS
 - 🌱 I’m currently learning Full Stack Javascript and the DevOps culture
 - 💬 Ask me about ...
