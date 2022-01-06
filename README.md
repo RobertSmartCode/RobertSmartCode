@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ID for IDEAS
 - 🌱 I’m currently learning Full Stack Javascript and the DevOps culture
--![](https://komarev.com/ghpvc/?username=RobertSmartCode)
+<br>![](https://komarev.com/ghpvc/?username=RobertSmartCode)</br>
   <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
