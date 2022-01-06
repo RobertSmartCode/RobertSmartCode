@@ -3,7 +3,7 @@
  <p>Welcome to my page! </br> I'm Robert Smart, Fullstack Javascript Developer <p>
 
 - 🔭 I’m currently working on ID for IDEAS
-- 🌱 I’m currently learning Full Stack Javascript and the DevOps culture
+- 🌱 I’m currently learning Full Stack Javascript and the DevOps Culture
 <br>![](https://komarev.com/ghpvc/?username=RobertSmartCode)</br>
   <h3>Things I code with</h3>
 <p>
