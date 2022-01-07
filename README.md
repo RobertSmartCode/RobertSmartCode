@@ -1,9 +1,10 @@
  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you </h1>
  
  <p>Welcome to my page! </br> I'm Robert Smart, Fullstack Javascript Developer <p>
- <br>![](https://komarev.com/ghpvc/?username=RobertSmartCode)</br>
+ 
 - 🔭 I’m currently working on ID for IDEAS
 - 🌱 I’m currently learning Full Stack Javascript and the DevOps Culture
+ <br>![](https://komarev.com/ghpvc/?username=RobertSmartCode)</br>
 
   <h3>Things I code with</h3>
 <p>
