@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Full Stack Javascript and the DevOps Culture
  <br>![](https://komarev.com/ghpvc/?username=RobertSmartCode)</br>
 
-<h3>Things I code with</h3>
+
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
