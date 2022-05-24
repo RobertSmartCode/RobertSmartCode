@@ -2,7 +2,7 @@
  
  <p>Welcome to my page! </br> I'm Robert Smart, React Developer <p>
  
-
+ <h3>Things I code with</h3>
  
 - 🔭 I’m currently working on ID for IDEAS
 - 🌱 I’m currently learning Full Stack Javascript and the DevOps Culture
